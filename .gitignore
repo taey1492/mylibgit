@@ -1,4 +1,5 @@
-*.html # glob *:모든것
+*.html 
+# glob *:모든것
 
 
 
