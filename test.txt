@@ -1,3 +1,7 @@
 test
 changed in vscode
+<<<<<<< HEAD
 집에서 수정됨 강의실 충돌
+=======
+집에서 수정됨
+>>>>>>> f19d7020c7e5d687f29393ad40f09168ba7f5c66
